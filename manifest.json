@@ -13,959 +13,959 @@
                       "path":  "mods/alexscaves-2.0.2.jar",
                       "sha256":  "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0",
                       "size":  74871657,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/alexscaves-2.0.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/alexscaves-2.0.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/alexsdelight-1.5.jar",
                       "sha256":  "439da92c904959e805c2237ebda9e96db60870dd3b58b4b402547d494fa0057a",
                       "size":  55398,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/alexsdelight-1.5.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/alexsdelight-1.5.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/alexsmobs-1.22.9.jar",
                       "sha256":  "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
                       "size":  26350793,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/alexsmobs-1.22.9.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/alexsmobs-1.22.9.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/alshanex_familiars-1.20.1_v1.1.2_HotFix.jar",
                       "sha256":  "7929ce275dd350d324288d479f681c034935cc4fa0e189dcbcbc0972822adc55",
                       "size":  21479291,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/alshanex_familiars-1.20.1_v1.1.2_HotFix.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/alshanex_familiars-1.20.1_v1.1.2_HotFix.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Apotheosis-1.20.1-7.4.6.jar",
                       "sha256":  "aaef9eaf2b198ce66c3066fe0189d55034faba3f467b1180365fc3aa9943291c",
                       "size":  2798724,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Apotheosis-1.20.1-7.4.6.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Apotheosis-1.20.1-7.4.6.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Apothic Supplementaries - Enchanting - 0.1.2a.jar",
                       "sha256":  "dff56516fffbf97cdb781958aa3a694cc1d668e8e79baa9af689b609b3610b86",
                       "size":  11802,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Apothic%20Supplementaries%20-%20Enchanting%20-%200.1.2a.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Apothic%20Supplementaries%20-%20Enchanting%20-%200.1.2a.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ApothicAttributes-1.20.1-1.3.7.jar",
                       "sha256":  "68487b11c0d4e2f67a85f2b04bf65e99ac15294f2923f4391f83e9542293187a",
                       "size":  227511,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ApothicAttributes-1.20.1-1.3.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ApothicAttributes-1.20.1-1.3.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ApothicCombat-1.20.1-1.1.0.jar",
                       "sha256":  "620a6a8b65f294679d9a157d4cf9b340cd71f30aaee971e4e009fc7ec9e4c0fd",
                       "size":  5063,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ApothicCombat-1.20.1-1.1.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ApothicCombat-1.20.1-1.1.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ApothicCurios-1.20.1-1.0.3d.jar",
                       "sha256":  "4f3313764b86800d9b72191b42d647a072b7c33798381d47cb18ad1b21cbab63",
                       "size":  12364,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ApothicCurios-1.20.1-1.0.3d.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ApothicCurios-1.20.1-1.0.3d.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
                       "sha256":  "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
                       "size":  47428,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/appleskin-forge-mc1.20.1-2.5.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ApricityUI-forge-1.20.1-1.2.7.jar",
                       "sha256":  "b4281c962f7a93b485d5f55f779a23b12c591ac6505a571c9578cc9f0c1372c2",
                       "size":  2680529,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ApricityUI-forge-1.20.1-1.2.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ApricityUI-forge-1.20.1-1.2.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/architectury-9.2.14-forge.jar",
                       "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
                       "size":  580602,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/architectury-9.2.14-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/architectury-9.2.14-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/artifacts-forge-9.5.15.jar",
                       "sha256":  "4b9e2f6b8bb203ce0542852f6b22f8f817c071fbc3bd3bd4f77725367bf3a1c7",
                       "size":  850351,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/artifacts-forge-9.5.15.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/artifacts-forge-9.5.15.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/authentic_wizardry-2.0.0.jar",
                       "sha256":  "adf55a393cb8985f1ebde1a972ae8ba642553484e4584b12ab5c8e839f69214b",
                       "size":  7559,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/authentic_wizardry-2.0.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/authentic_wizardry-2.0.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/azurelib-neo-1.20.1-2.0.41.jar",
                       "sha256":  "25a95a495c586b72f80bf8b65fd1892b2e21a2d9d2e072808e663aa0938401f6",
                       "size":  757383,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/azurelib-neo-1.20.1-2.0.41.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/azurelib-neo-1.20.1-2.0.41.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/balm-forge-1.20.1-7.3.26-all.jar",
                       "sha256":  "e985226617f3fce89110d74221183d11186b38236ba8a93757435850f77ca5f7",
                       "size":  475296,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/balm-forge-1.20.1-7.3.26-all.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/balm-forge-1.20.1-7.3.26-all.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/bettercombat-forge-1.8.6+1.20.1.jar",
                       "sha256":  "e147e13732e0fac83aee209487fdeb10a03e52c33e1b1439dbce01a80f3e8dbb",
                       "size":  1050118,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/bettercombat-forge-1.8.6%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/bettercombat-forge-1.8.6%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/bettervillage-forge-1.20.1-3.3.0-all.jar",
                       "sha256":  "3dca5ea1b24b87e45de99378000ec3ea524c08f849bd66c01e7e72508951ad1d",
                       "size":  2612353,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/bettervillage-forge-1.20.1-3.3.0-all.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/bettervillage-forge-1.20.1-3.3.0-all.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/BiomesOPlenty-forge-1.20.1-19.0.0.95.jar",
                       "sha256":  "6cac6d6917dfb6b601a25dd44a72a9817cd0c42dfc3e785ec086eda194dda1cf",
                       "size":  22379335,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/BiomesOPlenty-forge-1.20.1-19.0.0.95.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/BiomesOPlenty-forge-1.20.1-19.0.0.95.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/blueprint-1.20.1-7.1.2.jar",
                       "sha256":  "935bcff1b649e221e97e12d89f88d48c81cce2e29ccdf0c76554fccddf703475",
                       "size":  1137697,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/blueprint-1.20.1-7.1.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/blueprint-1.20.1-7.1.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/caelus-forge-3.2.0+1.20.1.jar",
                       "sha256":  "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368",
                       "size":  40125,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/caelus-forge-3.2.0%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/caelus-forge-3.2.0%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/cataclysmiccombat-1.4.jar",
                       "sha256":  "c1ec495af967da6be9660d0d4dbe508c2416583d5d1ef3f0958626e3eaa582fe",
                       "size":  5160,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/cataclysmiccombat-1.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/cataclysmiccombat-1.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Chunky-1.3.146.jar",
                       "sha256":  "996a3c9b53e6c0e0850fb9e78d3546d2c37a1b789ddaf529b17e4fe62ab23141",
                       "size":  341451,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Chunky-1.3.146.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Chunky-1.3.146.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/citadel-2.6.1-1.20.1.jar",
                       "sha256":  "8ceb5eb471c6feb899c02a9d560917dcc460cd0cb0d6b77d3237889cffb7e1d9",
                       "size":  3173637,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/citadel-2.6.1-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/citadel-2.6.1-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/cloth-config-11.1.136-forge.jar",
                       "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
                       "size":  1181413,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/cloth-config-11.1.136-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/cloth-config-11.1.136-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
                       "sha256":  "1d1cfcf386f182b1d0bdbe4bd4fc57b96234e8c7468e95e1575ad4dd6433243a",
                       "size":  20299,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Clumps-forge-1.20.1-12.0.0.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Clumps-forge-1.20.1-12.0.0.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/comforts-forge-6.4.0+1.20.1.jar",
                       "sha256":  "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
                       "size":  382083,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/comforts-forge-6.4.0%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/comforts-forge-6.4.0%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Controlling-forge-1.20.1-12.0.2.jar",
                       "sha256":  "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944",
                       "size":  115280,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Controlling-forge-1.20.1-12.0.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Controlling-forge-1.20.1-12.0.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/coroutil-forge-1.20.1-1.3.7.jar",
                       "sha256":  "11448808a42c17425cf2ea39701841008683d6ad6e2838a34eef0253251a870f",
                       "size":  64187,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/coroutil-forge-1.20.1-1.3.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/coroutil-forge-1.20.1-1.3.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/craftingtweaks-forge-1.20.1-18.2.5.jar",
                       "sha256":  "b8cd1af731e7b02f5683fdc62750f0cda304b5d814d917321220fc881c2a901a",
                       "size":  221275,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/craftingtweaks-forge-1.20.1-18.2.5.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/craftingtweaks-forge-1.20.1-18.2.5.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/cristellib-1.1.6-forge.jar",
                       "sha256":  "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
                       "size":  431318,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/cristellib-1.1.6-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/cristellib-1.1.6-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/curios-forge-5.12.1+1.20.1.jar",
                       "sha256":  "9e902a43ba65907324a5bfc0d78098927cc791c477268be4a7602eda237b4ece",
                       "size":  395966,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/curios-forge-5.12.1%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/curios-forge-5.12.1%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/CustomSkinLoader_ForgeV2-14.28.jar",
                       "sha256":  "2edbc47d4cb378d4cab9a7968b578e9f9dd4aad1dcb7400a9b7af29eda89bd3f",
                       "size":  153877,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/CustomSkinLoader_ForgeV2-14.28.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/CustomSkinLoader_ForgeV2-14.28.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/dummmmmmy-1.20-2.0.6.jar",
                       "sha256":  "6d07e527fe6ecae78eeb20683f36dd438892dd2e6a07315ad3674c969d675c7b",
                       "size":  360645,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/dummmmmmy-1.20-2.0.6.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/dummmmmmy-1.20-2.0.6.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
                       "sha256":  "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
                       "size":  758123,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Dungeon%20Crawl-1.20.1-2.3.15.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Dungeon%20Crawl-1.20.1-2.3.15.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/dungeons_enhanced-1.20.1-5.4.0.jar",
                       "sha256":  "d8ed54e9912209384512efa0a61650eb0c89c95c6ea3b8662f5b3ef0a87bceb0",
                       "size":  1417521,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/dungeons_enhanced-1.20.1-5.4.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/dungeons_enhanced-1.20.1-5.4.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
                       "sha256":  "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90",
                       "size":  8762342,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/DungeonsArise-1.20.x-2.1.58-release.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/DungeonsArise-1.20.x-2.1.58-release.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/easy-villagers-forge-1.20.1-1.1.23.jar",
                       "sha256":  "14338c76517912a248eaa9ae77db7c67f28b858d762f71e01373602909706cb1",
                       "size":  411343,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/easy-villagers-forge-1.20.1-1.1.23.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/easy-villagers-forge-1.20.1-1.1.23.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
                       "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
                       "size":  1320675,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/embeddium-0.3.31%2Bmc1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ExplorersCompass-1.20.1-1.4.0-forge.jar",
                       "sha256":  "0d9a7705f39a9eac19c33e0fbe5422280048991a341dc0d9471bff32111c502c",
                       "size":  174387,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ExplorersCompass-1.20.1-1.4.0-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ExplorersCompass-1.20.1-1.4.0-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Explorify v1.6.2 f10-48.jar",
                       "sha256":  "8280dd4b3fa9a25a34dd663c3e0dc6342ba792ae31ab97d75c3c20e44bcc2df5",
                       "size":  974818,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Explorify%20v1.6.2%20f10-48.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Explorify%20v1.6.2%20f10-48.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/FarmersDelight-1.20.1-1.2.7.jar",
                       "sha256":  "2050273740a41e5d81c08d27c2d9e4ffc607f6817a4991fef3d3def439fb4938",
                       "size":  2954263,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/FarmersDelight-1.20.1-1.2.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/FarmersDelight-1.20.1-1.2.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ferritecore-6.0.1-forge.jar",
                       "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
                       "size":  123034,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ferritecore-6.0.1-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ferritecore-6.0.1-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Forgematica-0.1.13-mc1.20.1.jar",
                       "sha256":  "d2c7c9c9075ee4bd6a60e75bfcb14ea397a054ec441029960fc6890f330e539f",
                       "size":  997501,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Forgematica-0.1.13-mc1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Forgematica-0.1.13-mc1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-chunks-forge-2001.3.8.jar",
                       "sha256":  "783f7aa42089b6f72500801284796f7cc8eb641ecddcf76f65bf586c017efb02",
                       "size":  1159043,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-chunks-forge-2001.3.8.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-chunks-forge-2001.3.8.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-essentials-forge-2001.2.4.jar",
                       "sha256":  "e0022bfe29dc10e373947701dae1bc4ce75ee15fe21f6d89269677fbb9aebf73",
                       "size":  157732,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-essentials-forge-2001.2.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-essentials-forge-2001.2.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-library-forge-2001.2.9.jar",
                       "sha256":  "b7d5d19889c485a9746022fdc42f3297aa4d26014559ea0ed35fa7ba816b001d",
                       "size":  791841,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-library-forge-2001.2.9.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-library-forge-2001.2.9.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-quests-forge-2001.4.22.jar",
                       "sha256":  "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68",
                       "size":  1255469,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-quests-forge-2001.4.22.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-quests-forge-2001.4.22.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-ranks-forge-2001.1.7.jar",
                       "sha256":  "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872",
                       "size":  87362,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-ranks-forge-2001.1.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-ranks-forge-2001.1.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-teams-forge-2001.3.2.jar",
                       "sha256":  "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07",
                       "size":  252579,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-teams-forge-2001.3.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-teams-forge-2001.3.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ftb-ultimine-forge-2001.1.5.jar",
                       "sha256":  "cc6c93a44da1682671c6ca1f2fbc779f6a48963a4df3030350d1707dd91fb563",
                       "size":  108517,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ftb-ultimine-forge-2001.1.5.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ftb-ultimine-forge-2001.1.5.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/geckolib-forge-1.20.1-4.7.1.2.jar",
                       "sha256":  "74641b81a2a037906e9c6efbcf4ceb8fc4f13ea4e7e888f1bb0b7e18fc0a4454",
                       "size":  1012500,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/geckolib-forge-1.20.1-4.7.1.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/geckolib-forge-1.20.1-4.7.1.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
                       "sha256":  "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61",
                       "size":  87550,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/gravestone-forge-1.20.1-1.0.35.jar",
                       "sha256":  "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85",
                       "size":  317181,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/gravestone-forge-1.20.1-1.0.35.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/gravestone-forge-1.20.1-1.0.35.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ice_and_fire_spellbooks-2.3.1-1.20.1.jar",
                       "sha256":  "5bbf33d80821c748f48854c9d79cd4bd7a93cd466ef45789d1d704dbaabae99c",
                       "size":  162612,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ice_and_fire_spellbooks-2.3.1-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ice_and_fire_spellbooks-2.3.1-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
                       "sha256":  "2b80245fc9b7d6fdc61d71f9892f4c6114eb7f303f65634845aaab25f84d1e82",
                       "size":  21854126,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/iceandfire-2.1.13-1.20.1-beta-5.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/iceandfirebettercombat1.20.1-1.0.1.jar",
                       "sha256":  "de5bd8b59c10470dfb862508bd024cf89a17c11a36df4fd8f441782e186718dc",
                       "size":  5497,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/iceandfirebettercombat1.20.1-1.0.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/iceandfirebettercombat1.20.1-1.0.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
                       "sha256":  "d605d50890b17ef8b580106161f3cc1941f332555e775e1f4985e906ce2bd768",
                       "size":  428350,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ImmediatelyFast-Forge-1.5.0%2B1.20.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ImmediatelyFast-Forge-1.5.0%2B1.20.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ironchest-1.20.1-14.4.4.jar",
                       "sha256":  "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f",
                       "size":  311290,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ironchest-1.20.1-14.4.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ironchest-1.20.1-14.4.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ironfurnaces-1.20.1-4.1.8.jar",
                       "sha256":  "e457052522cef1f8644b6929a64eab96de04ce9e6e32a715f1d68d79da26d66b",
                       "size":  612921,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ironfurnaces-1.20.1-4.1.8.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ironfurnaces-1.20.1-4.1.8.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/irons_spellbooks-1.20.1-3.4.0.7.jar",
                       "sha256":  "4a3ab36c02a128761f585e4719d6364a3aa3a10ffd6c8357b597c1aa52ace9d8",
                       "size":  8673400,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/irons_spellbooks-1.20.1-3.4.0.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/irons_spellbooks-1.20.1-3.4.0.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Jade-1.20.1-Forge-11.13.1.jar",
                       "sha256":  "921996fef486fdc0d03d3e9574698243edb380e118aaa6a59dccd55b1776b32f",
                       "size":  550551,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Jade-1.20.1-Forge-11.13.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Jade-1.20.1-Forge-11.13.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/jei-1.20.1-forge-15.20.0.106.jar",
                       "sha256":  "e3d8f2c4028fa431368d42bde25b92b2210bddd2e1fb59a932d0c2cc62dd3587",
                       "size":  1379220,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/jei-1.20.1-forge-15.20.0.106.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/jei-1.20.1-forge-15.20.0.106.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
                       "sha256":  "13e2012375d16663192cf67f5e4139335e5dcbeaf2adf7e8a4816b013802f96a",
                       "size":  24607,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
                       "sha256":  "311d3a83db489d27b96cd15deb690ce64c78cffb552c25c3dff85956a14ec09e",
                       "size":  276231,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/JustEnoughResources-1.20.1-1.4.0.247.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/justzoom_forge_2.1.1_MC_1.20.1.jar",
                       "sha256":  "778c75c388a8dffed5bfad25ab9a420dfd6c4ec3bdc1699ec6c2bab2336b5040",
                       "size":  204574,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/justzoom_forge_2.1.1_MC_1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/justzoom_forge_2.1.1_MC_1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                       "sha256":  "e78686b92c3761ec26eb9d3c53efdd3d6ca77981cbd3723995e1163b7103ae0b",
                       "size":  625185,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/kubejs_gui_2_1201-forge-1.0.0.jar",
                       "sha256":  "10c6c115d96b5165f36c59755ab17801945d94dea4c9ff5ca7883ae8e921231b",
                       "size":  186513,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/kubejs_gui_2_1201-forge-1.0.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/kubejs_gui_2_1201-forge-1.0.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/kubejsadditions-forge-4.3.4.jar",
                       "sha256":  "89ef426761bc68b2f449c93fe75c0532317e53561758d7a002e4cb0450b9be27",
                       "size":  321976,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/kubejsadditions-forge-4.3.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/kubejsadditions-forge-4.3.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/kubejs-forge-2001.6.5-build.26.jar",
                       "sha256":  "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb",
                       "size":  1658792,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/kubejs-forge-2001.6.5-build.26.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/kubejs-forge-2001.6.5-build.26.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/L_Enders_Cataclysm-2.62.jar",
                       "sha256":  "c511d419b34427e19feb6877af6585304b4c690b71e6f6ed0924b90f45af9343",
                       "size":  72160029,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/L_Enders_Cataclysm-2.62.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/L_Enders_Cataclysm-2.62.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/lendersdelight-1.0.6-1.20.1.jar",
                       "sha256":  "713c7793d354abe26b4bb9aa3a6cf02d7f2cf86417699b7cb393a448b6faa723",
                       "size":  96220,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/lendersdelight-1.0.6-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/lendersdelight-1.0.6-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/libraryferret-forge-1.20.1-4.0.0.jar",
                       "sha256":  "355f5000b56d6f355338bd494fcdb822f36e29cf9e3c27ebcc7720402a804510",
                       "size":  190536,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/libraryferret-forge-1.20.1-4.0.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/libraryferret-forge-1.20.1-4.0.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/lionfishapi-2.4-Fix.jar",
                       "sha256":  "7f54de417aae331bf39f2847d3029d0976b90b50f217f9b4cc856433d34aee6f",
                       "size":  162767,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/lionfishapi-2.4-Fix.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/lionfishapi-2.4-Fix.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/lootjs-forge-1.20.1-2.13.1.jar",
                       "sha256":  "c1672330605a691b8a91b3a4d252f2d3a280f252874f1fc5fdd7cad07d13b719",
                       "size":  242267,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/lootjs-forge-1.20.1-2.13.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/lootjs-forge-1.20.1-2.13.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/lootr-forge-1.20-0.7.35.91.jar",
                       "sha256":  "def6592e0162ea369d63e825abf0e6c60927eafed82772e821dc01cd9c4a5479",
                       "size":  458532,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/lootr-forge-1.20-0.7.35.91.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/lootr-forge-1.20-0.7.35.91.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/lynchs_hostile_mobs_expansion-1.4.0-forge-1.20.1.jar",
                       "sha256":  "0a4b58b2ae6cf63dc667bd9f06f15703a7825081c12b9741a4b0c837e40af018",
                       "size":  809218,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/lynchs_hostile_mobs_expansion-1.4.0-forge-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/lynchs_hostile_mobs_expansion-1.4.0-forge-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/MaFgLib-0.1.14-mc1.20.1.jar",
                       "sha256":  "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1",
                       "size":  521709,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/MaFgLib-0.1.14-mc1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/MaFgLib-0.1.14-mc1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/majrusz-library-forge-1.20.1-7.0.8.jar",
                       "sha256":  "4d58fc2db26343d6b163dbb8f8c98e554ada6fffb634b9896c2d274629090548",
                       "size":  437340,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/majrusz-library-forge-1.20.1-7.0.8.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/majrusz-library-forge-1.20.1-7.0.8.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
                       "sha256":  "3a47dee789e49050e2819e1c173c7fc4d8020a8604e7ed9afb4017a941ba86f3",
                       "size":  777242,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/majruszs-enchantments-forge-1.20.1-1.10.8.jar",
                       "sha256":  "72bee9ecc0e23c40b59b3ee29b620765386ac7a43cb730182850cad261c9367e",
                       "size":  156696,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/majruszs-enchantments-forge-1.20.1-1.10.8.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
                       "sha256":  "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d",
                       "size":  2174615,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/mes-1.3.4-1.20-forge.jar",
                       "sha256":  "a5237ec1f5bede826c60e6b2fd6fd4eb58014e2241bb4bab04d32a8b67eb1d54",
                       "size":  387792,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/mes-1.3.4-1.20-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/mes-1.3.4-1.20-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/mobs_of_mythology-forge-1.20.1-2.1.1.jar",
                       "sha256":  "e3fa33d93adf08aa732bb2eabbfcd95be0ebf423e86cbbff45d0ad69f927ca53",
                       "size":  601619,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/mobs_of_mythology-forge-1.20.1-2.1.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/mobs_of_mythology-forge-1.20.1-2.1.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/modernfix-forge-5.27.49+mc1.20.1.jar",
                       "sha256":  "80c65c57c6d969c71df533c63d78778bee4945ce45f080db8a2d93ff0074cacb",
                       "size":  979197,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/modernfix-forge-5.27.49%2Bmc1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/modernfix-forge-5.27.49%2Bmc1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/moonlight-1.20-2.13.79-forge.jar",
                       "sha256":  "fafd2e1d0a2d33da79a98f28ec55ce86485a6d69963e0f9617aff48972778182",
                       "size":  1251235,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/moonlight-1.20-2.13.79-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/moonlight-1.20-2.13.79-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
                       "sha256":  "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
                       "size":  76237,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/mowzies_cataclysm-1.2.0.jar",
                       "sha256":  "7000e49b13c0fb484f288f061cb58dbc8d82bc666fe5c9d0013d59fb62da7cc0",
                       "size":  29105,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/mowzies_cataclysm-1.2.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/mowzies_cataclysm-1.2.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/mowziesmobs-1.7.1.jar",
                       "sha256":  "ee243501efc070ee2b2947b96850da6f18b8910c44d56fa27f63f9eb173d2789",
                       "size":  35228644,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/mowziesmobs-1.7.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/mowziesmobs-1.7.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/NaturesCompass-1.20.1-1.12.0-forge.jar",
                       "sha256":  "bc3601e9e050802569647de843fe9d3160934c5f31412cba62ca2ea8c1485197",
                       "size":  227495,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/NaturesCompass-1.20.1-1.12.0-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/NaturesCompass-1.20.1-1.12.0-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/novaordem-1.1.4-preview.1.jar",
                       "sha256":  "becad8508bf89cbe75b4af55941613f53c29537633eb09da3a8e3a31575f210e",
                       "size":  21691131,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/novaordem-1.1.4-preview.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/novaordem-1.1.4-preview.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
                       "sha256":  "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
                       "size":  424035,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/oculus-mc1.20.1-1.8.0.jar",
                       "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
                       "size":  2851119,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/oculus-mc1.20.1-1.8.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/oculus-mc1.20.1-1.8.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Patchouli-1.20.1-84.1-FORGE.jar",
                       "sha256":  "9cc38ebb5e29b350222e337b7a5a2ba238c802230a89434ce00e90ee3026d056",
                       "size":  642711,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Patchouli-1.20.1-84.1-FORGE.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Patchouli-1.20.1-84.1-FORGE.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Pehkui-3.8.2+1.20.1-forge.jar",
                       "sha256":  "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc",
                       "size":  671605,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Pehkui-3.8.2%2B1.20.1-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Pehkui-3.8.2%2B1.20.1-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Placebo-1.20.1-8.6.3.jar",
                       "sha256":  "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571",
                       "size":  282474,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Placebo-1.20.1-8.6.3.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Placebo-1.20.1-8.6.3.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
                       "sha256":  "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
                       "size":  181437,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/polymorph-forge-0.49.8+1.20.1.jar",
                       "sha256":  "c5384788f354effb9866a9a084c521bb3e05d246690765e1130a2778efd49ba4",
                       "size":  299140,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/polymorph-forge-0.49.8%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/polymorph-forge-0.49.8%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/raccompat-1.20.1-0.1.3.jar",
                       "sha256":  "8ba216e8c9bfa502e69a88f491fdd1cba141c5cfa9d1293cf749effd1ef2f5a1",
                       "size":  119631,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/raccompat-1.20.1-0.1.3.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/raccompat-1.20.1-0.1.3.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/ramcompat-1.20.1-0.1.4.jar",
                       "sha256":  "d3e1114c3a0b8b7761b6f9ec9ac17d3e487bc488b4bb1a4acf8740726be90ccb",
                       "size":  43635,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/ramcompat-1.20.1-0.1.4.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/ramcompat-1.20.1-0.1.4.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/relics-1.20.1-0.8.0.7.jar",
                       "sha256":  "cec2616f005d21c28dbc61accad4ec2904d48ade0c9647504a6e8e199f1fdd13",
                       "size":  1509760,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/relics-1.20.1-0.8.0.7.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/relics-1.20.1-0.8.0.7.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/rhino-forge-2001.2.3-build.10.jar",
                       "sha256":  "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
                       "size":  1798244,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/rhino-forge-2001.2.3-build.10.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/rhino-forge-2001.2.3-build.10.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Searchables-forge-1.20.1-1.0.3.jar",
                       "sha256":  "c1a76e93886210574d3f298c0461241fb711e52ac22c7a04d3236840f29e6576",
                       "size":  77732,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Searchables-forge-1.20.1-1.0.3.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Searchables-forge-1.20.1-1.0.3.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/servercore-forge-1.5.2+1.20.1.jar",
                       "sha256":  "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586",
                       "size":  1508496,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/servercore-forge-1.5.2%2B1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/servercore-forge-1.5.2%2B1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/skinlayers3d-forge-1.7.4-mc1.20.1.jar",
                       "sha256":  "6cb21eea214b1832f30cd15416ff13b4260009efc1500c499f9c93b2599606d9",
                       "size":  483278,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/skinlayers3d-forge-1.7.4-mc1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/skinlayers3d-forge-1.7.4-mc1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/skinrestorer-2.7.0+1.20-forge.jar",
                       "sha256":  "7795a3e28f0f9cb8ef58b0a7bcdeddaa35e7ed660042c7573d5fb5ea145acc1b",
                       "size":  250394,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/skinrestorer-2.7.0%2B1.20-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/skinrestorer-2.7.0%2B1.20-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/skyarena-1.2.3.jar",
                       "sha256":  "5317f525361161cdf51f5cc59e5b1699da31ef24cadd4a717cf545b7d9fea984",
                       "size":  937738,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/skyarena-1.2.3.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/skyarena-1.2.3.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar",
                       "sha256":  "4177db2fdb2d23b717dd3dbf64504c848935327bb4f5fbdff64ed907cb6c4571",
                       "size":  246865,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/SmartBrainLib-forge-1.20.1-1.15.jar",
                       "sha256":  "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d",
                       "size":  362338,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/SmartBrainLib-forge-1.20.1-1.15.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/SmartBrainLib-forge-1.20.1-1.15.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
                       "sha256":  "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
                       "size":  511601,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
                       "sha256":  "37ec0b6248f04e856e6e5ba2066c4ded9981ce128282a9b45cdb10b67b9c8415",
                       "size":  443978,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/sophisticatedbackpacks-1.20.1-3.23.6.1211.jar",
                       "sha256":  "dd880899fc1920d5b60b3be8a0615297b476f6ff48d81d7e8613fa15637e4a8b",
                       "size":  897034,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/sophisticatedbackpacks-1.20.1-3.23.6.1211.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/sophisticatedbackpacks-1.20.1-3.23.6.1211.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/sophisticatedcore-1.20.1-1.2.23.902.jar",
                       "sha256":  "9e7ae3b1e0d3cb791c75589f094698983b9abf4815513ef1d722e0624e9b5249",
                       "size":  1170980,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/sophisticatedcore-1.20.1-1.2.23.902.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/sophisticatedcore-1.20.1-1.2.23.902.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/sophisticatedstorage-1.20.1-1.3.9.1075.jar",
                       "sha256":  "bcaf9a4231bc329ecfc0eb20d58b366ab2c90b453be99b66ccc04f2b46350936",
                       "size":  1531699,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/sophisticatedstorage-1.20.1-1.3.9.1075.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/sophisticatedstorage-1.20.1-1.3.9.1075.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
                       "sha256":  "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1",
                       "size":  203819,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/spark-1.10.53-forge.jar",
                       "sha256":  "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed",
                       "size":  3114590,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/spark-1.10.53-forge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/spark-1.10.53-forge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/spartanfire-1.20.1-2.1.0.jar",
                       "sha256":  "be4413b59cd2619fee2529164b68936c86ac010de43665afdb8fffb43c51fc66",
                       "size":  1553979,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/spartanfire-1.20.1-2.1.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/spartanfire-1.20.1-2.1.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/spartanfireextras-1.1.jar",
                       "sha256":  "c352c2b7f5ec9194f09b38eb6c077b2bf4361f2125db14e8cf8c19f8bd4663ec",
                       "size":  76539,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/spartanfireextras-1.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/spartanfireextras-1.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/spartantoolkit-1.20.1-1.5.2.jar",
                       "sha256":  "62e71f3156f4fa0fd85fb5ffae55b25bd02ea766171fc8a64cdafbee3f0dcd96",
                       "size":  62251,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/spartantoolkit-1.20.1-1.5.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/spartantoolkit-1.20.1-1.5.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/SpartanWeaponry-1.20.1-forge-3.1.3-all.jar",
                       "sha256":  "509243a7b43cddd790593f88b9cc165de21c2f341c30b871ffe85871342b9468",
                       "size":  2800831,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/SpartanWeaponry-1.20.1-forge-3.1.3-all.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/SpartanWeaponry-1.20.1-forge-3.1.3-all.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/stalwart-dungeons-1.20.1-1.2.8.jar",
                       "sha256":  "c0b967220e751629da248151a30d8d21f9cf3afc6c92da0aa8bd838a05f8fd7a",
                       "size":  1049721,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/stalwart-dungeons-1.20.1-1.2.8.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/stalwart-dungeons-1.20.1-1.2.8.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/structure_gel-1.20.1-2.16.2.jar",
                       "sha256":  "1584a5aed31c0f63e53c29d53cf4e069cdabf358e785240cc500702dc5918e3e",
                       "size":  966028,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/structure_gel-1.20.1-2.16.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/structure_gel-1.20.1-2.16.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/supplementaries-1.20-3.1.21.jar",
                       "sha256":  "9f94c4006f4b3735453eb8766f23368d1168b4437f301850476fa76fe314a525",
                       "size":  13596532,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/supplementaries-1.20-3.1.21.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/supplementaries-1.20-3.1.21.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/tectonic-forge-1.20.1-2.4.1.jar",
                       "sha256":  "1e8a9f1c929ccea1adda609233dad8b52f0d44d73b5c73254bed92a8b0d0f992",
                       "size":  349125,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/tectonic-forge-1.20.1-2.4.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/tectonic-forge-1.20.1-2.4.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
                       "sha256":  "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
                       "size":  107532,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/TheOuterEnd-1.0.10.jar",
                       "sha256":  "925b3c02a42dd94e74394fcc7f242cb3c189d30cce034de83cb03ce2267d0878",
                       "size":  25018793,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/TheOuterEnd-1.0.10.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/TheOuterEnd-1.0.10.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/tombstone-1.20.1-8.9.2.jar",
                       "sha256":  "ef2d54dcd3571929e01a2787f978878297a049e8bc1da1e196c1f37bc81813f1",
                       "size":  2015051,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/tombstone-1.20.1-8.9.2.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/tombstone-1.20.1-8.9.2.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/toms_storage-1.20-1.7.0.jar",
                       "sha256":  "2ee00030b925913470735fe172da67f214cd2e70babe487602d2bbc798515016",
                       "size":  519961,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/toms_storage-1.20-1.7.0.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/toms_storage-1.20-1.7.0.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
                       "sha256":  "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
                       "size":  2864275,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Towns-and-Towers-1.12-Fabric%2BForge.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Towns-and-Towers-1.12-Fabric%2BForge.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/traveloptics-4.4.0-1.20.1.jar",
                       "sha256":  "2df226b6078604a3abb50c44fb7bb81850cc831548fb3510803ccc5e5430a8bf",
                       "size":  21147900,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/traveloptics-4.4.0-1.20.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/traveloptics-4.4.0-1.20.1.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/voicechat-forge-1.20.1-2.6.18.jar",
                       "sha256":  "bd677c153b140263c007de7e06545dbd1cdd1084812fd02241db8ba5c5055b3f",
                       "size":  4903917,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/voicechat-forge-1.20.1-2.6.18.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/voicechat-forge-1.20.1-2.6.18.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/watut-forge-1.20.1-1.2.3.jar",
                       "sha256":  "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
                       "size":  435496,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/watut-forge-1.20.1-1.2.3.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/watut-forge-1.20.1-1.2.3.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/waystones-forge-1.20.1-14.1.11.jar",
                       "sha256":  "bd758f39c159362223d392b4008b8136890587c45de16075089b13f7e1295d90",
                       "size":  487684,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/waystones-forge-1.20.1-14.1.11.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/waystones-forge-1.20.1-14.1.11.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/worldedit-mod-7.2.15.jar",
                       "sha256":  "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
                       "size":  5825402,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/worldedit-mod-7.2.15.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/worldedit-mod-7.2.15.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/Xaeros_Minimap_25.2.0_Forge_1.20.jar",
                       "sha256":  "0425ffd1e2036dd10bae359d30cc6f48b8b31a8f37602ecdcc08bbc21120230e",
                       "size":  1704129,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/Xaeros_Minimap_25.2.0_Forge_1.20.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/Xaeros_Minimap_25.2.0_Forge_1.20.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/XaerosWorldMap_1.39.4_Forge_1.20.jar",
                       "sha256":  "efd4da58219805eae1f0a90a4d7fd7967929afdbab5543c2f71f5448a8db72da",
                       "size":  933184,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/XaerosWorldMap_1.39.4_Forge_1.20.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/XaerosWorldMap_1.39.4_Forge_1.20.jar",
                       "required":  true
                   },
                   {
                       "path":  "mods/zombieawareness-1.20.1-1.13.1.jar",
                       "sha256":  "4f5104f7d29e1d065364d2483885f3751da2bef09a734cead2fce81c82c46586",
                       "size":  291139,
-                      "url":  "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.3/zombieawareness-1.20.1-1.13.1.jar",
+                      "url":  "https://raw.githubusercontent.com/fromNexz/nova-ordem-modpack-manifest/main/mods/zombieawareness-1.20.1-1.13.1.jar",
                       "required":  true
                   }
               ]
