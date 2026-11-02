@@ -4,7 +4,7 @@
   "modpack": {
     "id": "nova-ordem",
     "name": "Nova Ordem",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "minecraft": "1.20.1",
     "modloader": "forge",
     "loaderVersion": "47.4.0"
@@ -578,10 +578,10 @@
       "required": true
     },
     {
-      "path": "mods/lionfishapi-3.0.jar",
-      "sha256": "d2fdaf7e9bc53fde7da4a86ab17018a3ed6c16fc2d46de5054e5a83e2bef7871",
-      "size": 101931,
-      "url": "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.4/lionfishapi-3.0.jar",
+      "path": "mods/lionfishapi-2.4-Fix.jar",
+      "sha256": "7f54de417aae331bf39f2847d3029d0976b90b50f217f9b4cc856433d34aee6f",
+      "size": 162767,
+      "url": "https://github.com/fromNexz/nova-ordem-modpack-manifest/releases/download/modpack-1.1.5/lionfishapi-2.4-Fix.jar",
       "required": true
     },
     {
@@ -1127,7 +1127,7 @@
   "removeFiles": [
     "mods/citadel-2.6.1-1.20.1.jar",
     "mods/curios-forge-5.12.1+1.20.1.jar",
-    "mods/lionfishapi-2.4-Fix.jar",
+    "mods/lionfishapi-3.0.jar",
     "mods/novaordem-1.1.1.jar",
     "mods/novaordem-1.1.2.jar",
     "mods/novaordem-1.1.3.jar",
